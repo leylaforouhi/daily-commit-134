@@ -1,5 +1,5 @@
 
-def calculate_average_word_length(text):
+def calculate_average_word_length(tex):
     words = text.split()
 
     if not words:
